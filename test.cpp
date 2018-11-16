@@ -4,6 +4,8 @@ FastString get_file_content(const string filename);
 
 const double SPAM_CUTOFF = 0.90;
 
+//git test
+
 int main(int argc,char* argv[])
 {
 	if (argc != 2)
